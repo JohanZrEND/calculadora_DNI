@@ -4,4 +4,3 @@ def calculadora_dni(numero_dni):
     resto = (numero_dni % len(lista))
 
     return lista[resto]
-
